@@ -87,3 +87,4 @@ It performs robustly in real-time tests with variations in lighting and expressi
 
 Govind Raj Gupta 
 🔗 [GitHub Profile](https://github.com/100376-govind)
+🔗 Video Link (https://www.linkedin.com/posts/govind-raj-gupta-415958324_machinelearning-deeplearning-ai-activity-7364625473420541952-zGIG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFICuVEBqhjVnWnfD7O4BvQ1NCwm9N_zhug)
