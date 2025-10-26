@@ -16,27 +16,6 @@ Key Highlights:
 4. Uses OpenCV for real-time webcam verification  
 5. Trains on anchor, positive, and negative image triplets  
 
-
-
- Face-Verification/
-│
-├── data/
-│   ├── anchor/               # Anchor images
-│   ├── positive/             # Positive images (same person)
-│   └── negative/             # Negative images (different person)
-│
-├── application_data/
-│   ├── input_image/          # Captured input image
-│   └── verification_images/  # Images used for verification
-│
-├── lfw/                      # Labeled Faces in the Wild dataset (optional)
-│
-├── Face Verification.ipynb   # Main Jupyter Notebook
-├── siamesemodelv2.h5         # Saved trained model
-└── README.md                 # Project description
-
-
-
  ⚙️ Setup Instructions
 
  1. Clone the repository
