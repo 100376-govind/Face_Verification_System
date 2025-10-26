@@ -18,10 +18,7 @@ Key Highlights:
 
 
 
- 🧩 Project Structure
-
-
-Face-Verification/
+ Face-Verification/
 │
 ├── data/
 │   ├── anchor/               # Anchor images
@@ -37,6 +34,7 @@ Face-Verification/
 ├── Face Verification.ipynb   # Main Jupyter Notebook
 ├── siamesemodelv2.h5         # Saved trained model
 └── README.md                 # Project description
+
 
 
  ⚙️ Setup Instructions
