@@ -16,7 +16,20 @@ Key Highlights:
 4. Uses OpenCV for real-time webcam verification  
 5. Trains on anchor, positive, and negative image triplets  
 
- ⚙️ Setup Instructions
+Project Structure:
+- application_data/
+	- input_image/          (single-frame captures used for verification)
+	- verification_images/  (saved images used for verification testing)
+- data/
+	- anchor/               (anchor images for training)
+	- positive/             (positive examples — same person)
+	- negative/             (negative examples — different person)
+- lfw/                    (optional LFW dataset folders)
+- training_checkpoints/   (saved checkpoints during training)
+- siamesemodelv2.h5       (example pretrained model)
+- Face Verification.ipynb (notebook for collection, training, verification)
+
+⚙️ Setup Instructions
 
  1. Clone the repository
 
